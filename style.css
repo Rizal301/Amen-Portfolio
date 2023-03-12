@@ -1,0 +1,17 @@
+.jumbotron {
+  padding: 2rem 2rem;
+  padding-top: 6rem;
+  background-color: rgb(88, 88, 88);
+}
+
+section.social {
+  background-color: rgb(50, 55, 59);
+}
+
+.custom-tooltip {
+  --bs-tooltip-bg: var(--bs-dark-rgb);
+}
+
+.custom-tooltip-white {
+  --bs-tooltip-bg: var(--bs-gray-100);
+}
